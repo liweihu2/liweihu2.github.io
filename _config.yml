@@ -27,8 +27,9 @@ author:
   name             : "Liwei Hu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
+  uni              : "University of Bologna"
   location         : "Bologna, Italy"
-  employer         : "University of Bologna"
+  employer         : #"University of Bologna"
   uri              : # URL
   email            : "liwei.hu2@unibo.it" 
 
