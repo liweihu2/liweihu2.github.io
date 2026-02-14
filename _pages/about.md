@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics at the University of Bologna.
+I am a PhD candidate in Applied Mathematics working on inverse problems governed by physical models, with applications to Earth surface processes.
 
-My research focuses on inverse problems, regularization methods, and uncertainty quantification, with applications to Earth surface processes. I am particularly interested in identifiability, ill-posedness, and PDE-constrained optimization.
-
-My work aims to develop methodological tools that extend beyond a single application domain, bridging applied mathematics and geoscience.
+My research investigates identifiability, regularization strategies, and uncertainty quantification in ill-posed problems constrained by differential equations. I am particularly interested in the recovery of hidden geometric structures from sparse and noisy data.
 
 During my PhD, I have carried out international research collaborations, including visits at UC Berkeley and Case Western Reserve University.
