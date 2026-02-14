@@ -40,7 +40,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=WVrckSEAAAAJ&view_op=list_works"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            :  "https://orcid.org/my-orcid?orcid=0009-0007-7010-0559"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -53,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           :  "liweihu2"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
