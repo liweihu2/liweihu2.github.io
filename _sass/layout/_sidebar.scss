@@ -213,6 +213,15 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
+    margin-bottom: 0x;
+  }
+}
+
+.author__major {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 0px;
     margin-bottom: 10px;
   }
 }
