@@ -44,7 +44,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Liwei-Hu-3"
   scopus           : # URL
   zotero           : # URL
 
@@ -68,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "liwei-hu-8486a42a8"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
