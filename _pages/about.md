@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Liwei Hu (胡立伟).
+
 I am a PhD candidate in Applied Mathematics working on ill-posed inverse problems governed by physical models, with applications to Earth surface processes.
 
 My research investigates identifiability, regularization strategies, and uncertainty quantification in ill-posed inverse problems constrained by partial differential equations. I am particularly interested in the recovery of hidden geometric structures from sparse and noisy data. 
