@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Liwei Hu (胡立伟).
 
-I am a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), where I previously earned my B.S. and M.S. in Mathematics.
+I am a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
 
 My research focuses on inverse problems and parameter estimation governed by physical models, with particular attention to identifiability, regularization, and uncertainty quantification. 
 
