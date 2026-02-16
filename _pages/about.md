@@ -15,4 +15,4 @@ My research focuses on inverse problems and parameter estimation governed by phy
 
 During my PhD, I developed and analyzed inverse problem methodologies for geoscience applications, particularly the recovery of hidden geometric structures from surface observations. This led to collaborations with geophysicists, engineering geologists, and fellow mathematicians, as well as research visits to UC Berkeley and Case Western Reserve University.
 
-I am broadly interested in advancing mathematically rigorous and computationally scalable frameworks for inverse problems arising in complex physical systems.
+I am broadly interested in advancing mathematically rigorous and computationally scalable frameworks for inference in complex physical systems.
