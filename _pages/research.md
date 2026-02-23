@@ -11,6 +11,6 @@ My research develops mathematical frameworks for ill-posed inverse problems, add
 
 A defining feature of my work is that these inverse problems are not only ill-posed, but strongly structured by physical constraints, which fundamentally shape identifiability, regularization choices, and quantification of the uncertainties. Within this physically constrained setting, a central theme of my work is the inversion of hidden geometric structures from indirect surface observations, where non-uniqueness and limited information content are dominant challenges.
 
-Earth systems such as landslides and slope instabilities serve as a physically meaningful and data-constrained testbed, where I have developed and validated methods for inferring subsurface thickness and basal geometry from surface deformation data.
+Earth systems such as landslides and slope instabilities serve as a physically meaningful and data-constrained testbed, where I have developed and validated [methods](https://liweihu2.github.io/publications/) for inferring subsurface thickness and basal geometry from surface deformation data.
 
 While my current applications focus on slope instabilities, the underlying mathematical structures naturally extend to a broader class of inverse problems in science and engineering, including other Earth systems and data-limited physical models.
