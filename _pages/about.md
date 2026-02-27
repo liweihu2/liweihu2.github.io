@@ -11,7 +11,9 @@ Hi, I'm Liwei Hu (胡立伟).
 
 I am a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
 
-My [research](https://liweihu2.github.io/research/) focuses on inverse problems and parameter estimation governed by physical models, with particular attention to identifiability, regularization, and uncertainty quantification. 
+My [research](https://liweihu2.github.io/research/) focuses on the development of mathematical methods for parameter estimation and inverse problems in physics-based systems, with current applications to Earth systems.
+
+with particular attention to identifiability, regularization, and uncertainty quantification. 
 
 During my PhD, I developed and analyzed inverse problem methodologies for geoscience applications, particularly the recovery of hidden geometric structures from surface observations. This led to collaborations with geophysicists, engineering geologists, and fellow mathematicians, as well as research visits to UC Berkeley and Case Western Reserve University.
 
