@@ -13,6 +13,4 @@ I'm an applied mathematician working on [inverse problems](https://liweihu2.gith
 
 I'm currently a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
 
-In my doctoral research, I develop and analyzed structure-aware regularization frameworks for inferring subsurface features from indirect surface measurements. This work led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
-
-I'm broadly interested in advancing mathematically rigorous and computationally scalable frameworks for inference in complex physical systems.
+In my doctoral research, I develop and analyze structure-aware regularization frameworks for inferring subsurface features from indirect surface measurements. This work has led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
