@@ -9,10 +9,10 @@ redirect_from:
 
 Hi, I'm Liwei Hu (胡立伟).
 
-I am an applied mathematician working on [inverse problems](https://liweihu2.github.io/research/) in physics-based models, with applications to Earth systems.
+I'm an applied mathematician working on [inverse problems](https://liweihu2.github.io/research/) in physics-based models, with applications to Earth systems.
 
-I am currently a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
+I 'm currently a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
 
-In my doctoral research, I developed and analyzed structure-aware regularization frameworks for inferring subsurface features from indirect surface measurements. This work led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
+In my doctoral research, I develop and analyzed structure-aware regularization frameworks for inferring subsurface features from indirect surface measurements. This work led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
 
-I am broadly interested in advancing mathematically rigorous and computationally scalable frameworks for inference in complex physical systems.
+I'm broadly interested in advancing mathematically rigorous and computationally scalable frameworks for inference in complex physical systems.
