@@ -17,4 +17,4 @@ I'm currently a PhD candidate in Applied Mathematics at the [University of Bolog
 
 In my doctoral research, I develop and analyze regularization frameworks for inferring subsurface features from indirect surface measurements. 
 
-aboThis work has led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
+This work has led to interdisciplinary collaborations and research visits to UC Berkeley and Case Western Reserve University.
