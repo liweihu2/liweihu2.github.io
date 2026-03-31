@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Liwei Hu (胡立伟).
 
-I'm an applied mathematician working on [inverse problems](https://liweihu2.github.io/research/) in physics-based models, with applications to Earth systems. My research focuses on structure-aware and domain-informed approaches to ill-posed inverse problems.
+I'm an applied mathematician working on [inverse problems](https://liweihu2.github.io/research/) in physics-based models, with an emphasis on structure-aware and domain-informed approaches, and current applications to Earth systems.
 
 I'm currently a PhD candidate in Applied Mathematics at the [University of Bologna](https://www.unibo.it/sitoweb/liwei.hu2/en), Italy, where I previously earned my B.S. and M.S. in Mathematics.
 
