@@ -15,7 +15,7 @@ Education
 * M.S. in Applied Mathematics, University of Bologna, 2023
 * B.S. in Mathematics, University of Bologna, 2020
 
-Research experience
+Research Experience
 ======
 * Spring 2025: Visiting Researcher
   * UC Berkeley
