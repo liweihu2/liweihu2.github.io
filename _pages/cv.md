@@ -9,8 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-#<p>
-#👉 <a href="/files/test.pdf" target="_blank">Download PDF</a>
-#</p>
+Education
+======
+* Ph.D in Applied Mathematics, University of Bologna, 2027 (expected)
+* M.S. in Applied Mathematics, University of Bologna, 2023
+* B.S. in Mathematics, University of Bologna, 2020
 
-# <iframe src="/files/test.pdf" width="100%" height="1000px"></iframe>
+Research experience
+======
+* Spring 2025: Visiting Researcher
+  * UC Berkeley
+  * Bayesian inverse problems for Earth system dynamics
+  * Host: Prof. Roland Bürgmann 
+
+* Fall 2025: Visiting Researcher
+  * Case Western Reserve University
+  * Bayesian scientific computing
+  * Hosts: Prof. Daniela Calvetti and Prof. Erkki Somersalo
