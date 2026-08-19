@@ -15,6 +15,7 @@ Education
   * Advisor: Fabiana Zama
   * Co-advisors: Lisa Borgatti, Germana Landi, Davide Donati, Giacomo Titti
 * M.S. in Applied Mathematics, University of Bologna, 2023
+  * Thesis Advisor: Fabiana Zama
 * B.S. in Mathematics, University of Bologna, 2020
 
 Research Experience
