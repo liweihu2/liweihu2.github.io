@@ -23,9 +23,9 @@ Research Experience
 * Spring 2025: Visiting Researcher
   * UC Berkeley
   * Bayesian inverse problems for Earth system dynamics
-  * Host: Roland Bürgmann 
+  * Host: [Roland Bürgmann](https://eps.berkeley.edu/people/roland-bürgmann)
 
 * Fall 2025: Visiting Researcher
   * Case Western Reserve University
   * Bayesian scientific computing
-  * Hosts: Daniela Calvetti and Erkki Somersalo
+  * Hosts: [Daniela Calvetti](https://mathstats.case.edu/faculty/daniela-calvetti/), [Erkki Somersalo](https://mathstats.case.edu/faculty/erkki-somersalo/)
