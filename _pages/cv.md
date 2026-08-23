@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Applied Mathematics, University of Bologna, 2027 (expected)
-  * Advisor: Fabiana Zama
-  * Co-advisors: Lisa Borgatti, Germana Landi, Davide Donati, Giacomo Titti
+  * Advisor: [Fabiana Zama](https://www.unibo.it/sitoweb/fabiana.zama/en)
+  * Co-advisors: [Lisa Borgatti](https://www.unibo.it/sitoweb/lisa.borgatti/en), [Germana Landi](https://www.unibo.it/sitoweb/germana.landi/en), [Davide Donati](https://www.unibo.it/sitoweb/davide.donati17/en), [Giacomo Titti](https://www.unibo.it/sitoweb/giacomo.titti/en)
 * M.S. in Applied Mathematics, University of Bologna, 2023
-  * Thesis Advisor: Fabiana Zama
+  * Thesis Advisor: [Fabiana Zama](https://www.unibo.it/sitoweb/fabiana.zama/en)
 * B.S. in Mathematics, University of Bologna, 2020
 
 Research Experience
