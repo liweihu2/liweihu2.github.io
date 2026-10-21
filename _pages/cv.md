@@ -7,17 +7,17 @@ redirect_from:
   - /resume
 ---
 
-<a href="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}"
+<a href="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}?v=20261021"
    target="_blank" rel="noopener">
   Open CV (PDF, new tab)
 </a>
 &nbsp;·&nbsp;
-<a href="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}" download>
+<a href="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}?v=20261021" download>
   Download CV
 </a>
 
 <iframe
-  src="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}"
+  src="{{ '/files/CV_Liwei_Hu.pdf' | relative_url }}?v=20261021"
   title="Curriculum Vitae — Liwei Hu"
   style="width: 100%; height: 900px; border: none;">
 </iframe>
